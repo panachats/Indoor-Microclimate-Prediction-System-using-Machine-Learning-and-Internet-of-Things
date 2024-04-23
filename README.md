@@ -6,9 +6,9 @@
         <img src="img/02.png">
     </p>
 
-    <p align="center">
+<p align="center">
         <img src="img/05.png">
-    </p>
+</p>
 
 
 <p align="center">
