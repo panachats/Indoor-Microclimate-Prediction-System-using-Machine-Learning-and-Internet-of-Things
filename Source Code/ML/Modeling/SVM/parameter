@@ -1,0 +1,894 @@
+C:\Users\user\AppData\Local\Programs\Python\Python39\python.exe C:\Users\user\Desktop\Microclimate\Source_Code\hisvm.py
+______________________ Select Point 1 ______________________
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : 49.129999999999825
+Max differential : 2.07
+Avg differential : 0.0048934262948207175
+Min differential : -3.62
+Differential greater than 1 : 34
+Differential less than -1 : 23
+Sum differential greater than and less than 1 : 57
+RMSE: 0.22
+R2 0.9894360157182488
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 1.0}
+Total test : 10040
+Sum differential : -384.49999999999875
+Max differential : 2.23
+Avg differential : -0.03829681274900398
+Min differential : -5.39
+Differential greater than 1 : 38
+Differential less than -1 : 226
+Sum differential greater than and less than 1 : 264
+RMSE: 0.35
+R2 0.9781302875269091
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -45.04000000000017
+Max differential : 3.82
+Avg differential : -0.00448605577689243
+Min differential : -4.56
+Differential greater than 1 : 24
+Differential less than -1 : 13
+Sum differential greater than and less than 1 : 37
+RMSE: 0.22
+R2 0.9897939284061982
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -69.26000000000008
+Max differential : 2.56
+Avg differential : -0.006898406374501992
+Min differential : -4.64
+Differential greater than 1 : 101
+Differential less than -1 : 123
+Sum differential greater than and less than 1 : 224
+RMSE: 0.37
+R2 0.9682503339725395
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -221.9299999999995
+Max differential : 2.78
+Avg differential : -0.022104581673306773
+Min differential : -5.56
+Differential greater than 1 : 93
+Differential less than -1 : 218
+Sum differential greater than and less than 1 : 311
+RMSE: 0.39
+R2 0.9762822741958751
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 0.8}
+Total test : 10040
+Sum differential : -60.29999999999999
+Max differential : 2.36
+Avg differential : -0.006005976095617529
+Min differential : -4.8
+Differential greater than 1 : 30
+Differential less than -1 : 34
+Sum differential greater than and less than 1 : 64
+RMSE: 0.25
+R2 0.9863632434948363
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -159.6599999999994
+Max differential : 2.74
+Avg differential : -0.01590239043824701
+Min differential : -5.03
+Differential greater than 1 : 70
+Differential less than -1 : 186
+Sum differential greater than and less than 1 : 256
+RMSE: 0.36
+R2 0.9722395866737561
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 32.97000000000006
+Max differential : 12.51
+Avg differential : 0.003283864541832669
+Min differential : -4.88
+Differential greater than 1 : 68
+Differential less than -1 : 112
+Sum differential greater than and less than 1 : 180
+RMSE: 0.5
+R2 0.953996389586083
+Total Sum differential Grid1 : 1393
+Next ----------------------> Point 2
+______________________ Select Point 2 ______________________
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 0.8}
+Total test : 10040
+Sum differential : -107.4899999999995
+Max differential : 2.49
+Avg differential : -0.010706175298804781
+Min differential : -4.56
+Differential greater than 1 : 19
+Differential less than -1 : 83
+Sum differential greater than and less than 1 : 102
+RMSE: 0.27
+R2 0.984197949125194
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 1.0}
+Total test : 10040
+Sum differential : -128.90999999999957
+Max differential : 2.37
+Avg differential : -0.012839641434262947
+Min differential : -5.45
+Differential greater than 1 : 23
+Differential less than -1 : 54
+Sum differential greater than and less than 1 : 77
+RMSE: 0.26
+R2 0.988046244846751
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 0.8}
+Total test : 10040
+Sum differential : -73.60000000000005
+Max differential : 3.92
+Avg differential : -0.007330677290836653
+Min differential : -5.05
+Differential greater than 1 : 14
+Differential less than -1 : 36
+Sum differential greater than and less than 1 : 50
+RMSE: 0.24
+R2 0.9883726308139493
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 143.16999999999965
+Max differential : 2.83
+Avg differential : 0.01425996015936255
+Min differential : -4.88
+Differential greater than 1 : 23
+Differential less than -1 : 15
+Sum differential greater than and less than 1 : 38
+RMSE: 0.28
+R2 0.9815070533808167
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -37.49000000000009
+Max differential : 4.86
+Avg differential : -0.00373406374501992
+Min differential : -5.86
+Differential greater than 1 : 55
+Differential less than -1 : 63
+Sum differential greater than and less than 1 : 118
+RMSE: 0.3
+R2 0.9863054805760282
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -99.57000000000005
+Max differential : 1.49
+Avg differential : -0.009917330677290837
+Min differential : -4.77
+Differential greater than 1 : 17
+Differential less than -1 : 85
+Sum differential greater than and less than 1 : 102
+RMSE: 0.24
+R2 0.9873650206814458
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 0.8}
+Total test : 10040
+Sum differential : 36.730000000000004
+Max differential : 2.13
+Avg differential : 0.0036583665338645417
+Min differential : -5.14
+Differential greater than 1 : 37
+Differential less than -1 : 51
+Sum differential greater than and less than 1 : 88
+RMSE: 0.33
+R2 0.9772739541024146
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 82.30999999999977
+Max differential : 11.9
+Avg differential : 0.008198207171314741
+Min differential : -6.73
+Differential greater than 1 : 46
+Differential less than -1 : 40
+Sum differential greater than and less than 1 : 86
+RMSE: 0.41
+R2 0.9691491289847193
+Total Sum differential Grid2 : 661
+Next ----------------------> Point 3
+______________________ Select Point 3 ______________________
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 449.87000000000063
+Max differential : 2.14
+Avg differential : 0.04480776892430279
+Min differential : -3.5
+Differential greater than 1 : 282
+Differential less than -1 : 66
+Sum differential greater than and less than 1 : 348
+RMSE: 0.37
+R2 0.9714477616892193
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 19.670000000000027
+Max differential : 2.59
+Avg differential : 0.0019591633466135455
+Min differential : -3.39
+Differential greater than 1 : 14
+Differential less than -1 : 28
+Sum differential greater than and less than 1 : 42
+RMSE: 0.2
+R2 0.991236668643489
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 52.24999999999997
+Max differential : 2.62
+Avg differential : 0.005204183266932271
+Min differential : -5.3
+Differential greater than 1 : 21
+Differential less than -1 : 37
+Sum differential greater than and less than 1 : 58
+RMSE: 0.25
+R2 0.9869332944737789
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -0.6700000000000774
+Max differential : 3.08
+Avg differential : -6.673306772908353e-05
+Min differential : -5.53
+Differential greater than 1 : 41
+Differential less than -1 : 57
+Sum differential greater than and less than 1 : 98
+RMSE: 0.31
+R2 0.9783466537553451
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 140.83000000000018
+Max differential : 3.3
+Avg differential : 0.014026892430278885
+Min differential : -5.97
+Differential greater than 1 : 42
+Differential less than -1 : 15
+Sum differential greater than and less than 1 : 57
+RMSE: 0.23
+R2 0.9915855624282665
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 59.920000000000094
+Max differential : 2.16
+Avg differential : 0.0059681274900398405
+Min differential : -5.15
+Differential greater than 1 : 70
+Differential less than -1 : 74
+Sum differential greater than and less than 1 : 144
+RMSE: 0.27
+R2 0.9836439318175384
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 59.72999999999985
+Max differential : 2.78
+Avg differential : 0.005949203187250996
+Min differential : -5.65
+Differential greater than 1 : 101
+Differential less than -1 : 63
+Sum differential greater than and less than 1 : 164
+RMSE: 0.33
+R2 0.9766480906538845
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 234.31000000000049
+Max differential : 13.28
+Avg differential : 0.02333764940239044
+Min differential : -8.09
+Differential greater than 1 : 54
+Differential less than -1 : 43
+Sum differential greater than and less than 1 : 97
+RMSE: 0.46
+R2 0.9622139026852151
+Total Sum differential Grid3 : 1008
+Next ----------------------> Point 4
+______________________ Select Point 4 ______________________
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -62.240000000000116
+Max differential : 4.45
+Avg differential : -0.006199203187250996
+Min differential : -3.45
+Differential greater than 1 : 13
+Differential less than -1 : 40
+Sum differential greater than and less than 1 : 53
+RMSE: 0.25
+R2 0.9869357525935389
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : 48.009999999999785
+Max differential : 4.6
+Avg differential : 0.0047818725099601595
+Min differential : -3.55
+Differential greater than 1 : 39
+Differential less than -1 : 17
+Sum differential greater than and less than 1 : 56
+RMSE: 0.21
+R2 0.9906188844128324
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 1.0}
+Total test : 10040
+Sum differential : -168.69999999999993
+Max differential : 5.41
+Avg differential : -0.016802788844621514
+Min differential : -5.18
+Differential greater than 1 : 40
+Differential less than -1 : 83
+Sum differential greater than and less than 1 : 123
+RMSE: 0.3
+R2 0.9841419777582664
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : 74.30999999999992
+Max differential : 2.17
+Avg differential : 0.007401394422310757
+Min differential : -4.27
+Differential greater than 1 : 34
+Differential less than -1 : 16
+Sum differential greater than and less than 1 : 50
+RMSE: 0.24
+R2 0.9863125919718191
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -122.18000000000016
+Max differential : 2.94
+Avg differential : -0.012169322709163346
+Min differential : -4.72
+Differential greater than 1 : 51
+Differential less than -1 : 98
+Sum differential greater than and less than 1 : 149
+RMSE: 0.29
+R2 0.9868461189863241
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -16.720000000000134
+Max differential : 1.95
+Avg differential : -0.0016653386454183266
+Min differential : -3.65
+Differential greater than 1 : 23
+Differential less than -1 : 11
+Sum differential greater than and less than 1 : 34
+RMSE: 0.19
+R2 0.992343752274618
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 0.8}
+Total test : 10040
+Sum differential : -74.74999999999983
+Max differential : 2.34
+Avg differential : -0.007445219123505976
+Min differential : -4.55
+Differential greater than 1 : 38
+Differential less than -1 : 52
+Sum differential greater than and less than 1 : 90
+RMSE: 0.29
+R2 0.9827161688780365
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 125.65999999999988
+Max differential : 12.44
+Avg differential : 0.01251593625498008
+Min differential : -3.99
+Differential greater than 1 : 27
+Differential less than -1 : 26
+Sum differential greater than and less than 1 : 53
+RMSE: 0.46
+R2 0.9619901539694149
+Total Sum differential Grid4 : 608
+Next ----------------------> Point 5
+______________________ Select Point 5 ______________________
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 8.790000000000052
+Max differential : 4.79
+Avg differential : 0.0008754980079681274
+Min differential : -3.69
+Differential greater than 1 : 151
+Differential less than -1 : 130
+Sum differential greater than and less than 1 : 281
+RMSE: 0.38
+R2 0.969820170448418
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 0.8}
+Total test : 10040
+Sum differential : -147.19999999999857
+Max differential : 4.98
+Avg differential : -0.014661354581673306
+Min differential : -6.14
+Differential greater than 1 : 57
+Differential less than -1 : 58
+Sum differential greater than and less than 1 : 115
+RMSE: 0.33
+R2 0.9763637007131034
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -31.930000000000064
+Max differential : 6.12
+Avg differential : -0.0031802788844621514
+Min differential : -4.25
+Differential greater than 1 : 61
+Differential less than -1 : 50
+Sum differential greater than and less than 1 : 111
+RMSE: 0.3
+R2 0.9842307039549405
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -38.87000000000021
+Max differential : 1.42
+Avg differential : -0.0038715139442231077
+Min differential : -3.75
+Differential greater than 1 : 13
+Differential less than -1 : 23
+Sum differential greater than and less than 1 : 36
+RMSE: 0.22
+R2 0.9897606409608469
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 17.939999999999976
+Max differential : 3.08
+Avg differential : 0.0017868525896414344
+Min differential : -4.78
+Differential greater than 1 : 82
+Differential less than -1 : 57
+Sum differential greater than and less than 1 : 139
+RMSE: 0.29
+R2 0.9866203140104567
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -3.750000000000023
+Max differential : 2.0
+Avg differential : -0.00037350597609561763
+Min differential : -3.8
+Differential greater than 1 : 60
+Differential less than -1 : 45
+Sum differential greater than and less than 1 : 105
+RMSE: 0.29
+R2 0.9817487001803405
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 28.269999999999936
+Max differential : 2.26
+Avg differential : 0.0028157370517928287
+Min differential : -4.58
+Differential greater than 1 : 28
+Differential less than -1 : 15
+Sum differential greater than and less than 1 : 43
+RMSE: 0.22
+R2 0.9894779747711523
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 137.80999999999952
+Max differential : 11.81
+Avg differential : 0.01372609561752988
+Min differential : -7.8
+Differential greater than 1 : 50
+Differential less than -1 : 42
+Sum differential greater than and less than 1 : 92
+RMSE: 0.47
+R2 0.959856049041761
+Total Sum differential Grid5 : 922
+Next ----------------------> Point 6
+______________________ Select Point 6 ______________________
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : 426.0100000000016
+Max differential : 4.44
+Avg differential : 0.04243127490039841
+Min differential : -3.86
+Differential greater than 1 : 447
+Differential less than -1 : 105
+Sum differential greater than and less than 1 : 552
+RMSE: 0.43
+R2 0.960381941254936
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 1.0}
+Total test : 10040
+Sum differential : 124.28000000000006
+Max differential : 4.62
+Avg differential : 0.012378486055776893
+Min differential : -4.7
+Differential greater than 1 : 18
+Differential less than -1 : 57
+Sum differential greater than and less than 1 : 75
+RMSE: 0.29
+R2 0.9815045654824825
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -200.7500000000009
+Max differential : 5.5
+Avg differential : -0.019995019920318727
+Min differential : -4.15
+Differential greater than 1 : 13
+Differential less than -1 : 61
+Sum differential greater than and less than 1 : 74
+RMSE: 0.23
+R2 0.9908438692643877
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 1.0}
+Total test : 10040
+Sum differential : 155.66000000000037
+Max differential : 3.05
+Avg differential : 0.01550398406374502
+Min differential : -4.92
+Differential greater than 1 : 31
+Differential less than -1 : 51
+Sum differential greater than and less than 1 : 82
+RMSE: 0.29
+R2 0.9824754025384602
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 72.9400000000001
+Max differential : 2.53
+Avg differential : 0.007264940239043825
+Min differential : -4.3
+Differential greater than 1 : 47
+Differential less than -1 : 55
+Sum differential greater than and less than 1 : 102
+RMSE: 0.29
+R2 0.9803663812385395
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -7.729999999999975
+Max differential : 2.78
+Avg differential : -0.0007699203187250996
+Min differential : -3.73
+Differential greater than 1 : 54
+Differential less than -1 : 69
+Sum differential greater than and less than 1 : 123
+RMSE: 0.28
+R2 0.983317497870147
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 1.0}
+Total test : 10040
+Sum differential : -77.22000000000011
+Max differential : 2.87
+Avg differential : -0.007691235059760956
+Min differential : -4.75
+Differential greater than 1 : 57
+Differential less than -1 : 88
+Sum differential greater than and less than 1 : 145
+RMSE: 0.33
+R2 0.9775714576956381
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'gamma': 3.0, 'C': 10.0}
+Total test : 10040
+Sum differential : 1.7700000000000153
+Max differential : 10.85
+Avg differential : 0.0001762948207171316
+Min differential : -7.12
+Differential greater than 1 : 65
+Differential less than -1 : 82
+Sum differential greater than and less than 1 : 147
+RMSE: 0.4
+R2 0.9708544842127321
+Total Sum differential Grid6 : 1300
+Next ----------------------> Point 7
+______________________ Select Point 7 ______________________
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 92.48000000000015
+Max differential : 4.38
+Avg differential : 0.009211155378486055
+Min differential : -3.43
+Differential greater than 1 : 57
+Differential less than -1 : 51
+Sum differential greater than and less than 1 : 108
+RMSE: 0.27
+R2 0.9841048253898702
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 1.0}
+Total test : 10040
+Sum differential : 15.809999999999992
+Max differential : 4.58
+Avg differential : 0.0015747011952191236
+Min differential : -3.89
+Differential greater than 1 : 38
+Differential less than -1 : 31
+Sum differential greater than and less than 1 : 69
+RMSE: 0.24
+R2 0.9876415895696913
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 1.0}
+Total test : 10040
+Sum differential : -325.19999999999953
+Max differential : 5.48
+Avg differential : -0.03239043824701195
+Min differential : -7.46
+Differential greater than 1 : 39
+Differential less than -1 : 180
+Sum differential greater than and less than 1 : 219
+RMSE: 0.36
+R2 0.9777949514824413
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -30.420000000000154
+Max differential : 3.52
+Avg differential : -0.0030298804780876493
+Min differential : -3.48
+Differential greater than 1 : 5
+Differential less than -1 : 23
+Sum differential greater than and less than 1 : 28
+RMSE: 0.17
+R2 0.9937759832069472
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -24.600000000000005
+Max differential : 2.82
+Avg differential : -0.002450199203187251
+Min differential : -4.29
+Differential greater than 1 : 38
+Differential less than -1 : 84
+Sum differential greater than and less than 1 : 122
+RMSE: 0.31
+R2 0.9781328527798377
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 1.0}
+Total test : 10040
+Sum differential : -174.29000000000016
+Max differential : 3.03
+Avg differential : -0.01735956175298805
+Min differential : -7.6
+Differential greater than 1 : 60
+Differential less than -1 : 167
+Sum differential greater than and less than 1 : 227
+RMSE: 0.38
+R2 0.9775653581587918
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -39.4999999999999
+Max differential : 1.91
+Avg differential : -0.003934262948207172
+Min differential : -4.54
+Differential greater than 1 : 22
+Differential less than -1 : 52
+Sum differential greater than and less than 1 : 74
+RMSE: 0.26
+R2 0.9857562316297458
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 185.52999999999957
+Max differential : 12.07
+Avg differential : 0.018479083665338646
+Min differential : -3.94
+Differential greater than 1 : 29
+Differential less than -1 : 18
+Sum differential greater than and less than 1 : 47
+RMSE: 0.46
+R2 0.9621001847011871
+Total Sum differential Grid7 : 894
+Next ----------------------> Point 8
+______________________ Select Point 8 ______________________
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 132.07000000000022
+Max differential : 4.74
+Avg differential : 0.013154382470119522
+Min differential : -3.49
+Differential greater than 1 : 212
+Differential less than -1 : 108
+Sum differential greater than and less than 1 : 320
+RMSE: 0.38
+R2 0.9688360609886717
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -43.45999999999989
+Max differential : 4.92
+Avg differential : -0.004328685258964143
+Min differential : -4.31
+Differential greater than 1 : 46
+Differential less than -1 : 39
+Sum differential greater than and less than 1 : 85
+RMSE: 0.28
+R2 0.9820190035996644
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -113.96999999999969
+Max differential : 5.95
+Avg differential : -0.011351593625498008
+Min differential : -4.06
+Differential greater than 1 : 91
+Differential less than -1 : 120
+Sum differential greater than and less than 1 : 211
+RMSE: 0.34
+R2 0.9798977993652792
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 34.14000000000005
+Max differential : 3.43
+Avg differential : 0.003400398406374502
+Min differential : -3.56
+Differential greater than 1 : 19
+Differential less than -1 : 33
+Sum differential greater than and less than 1 : 52
+RMSE: 0.24
+R2 0.9876845789754332
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -5.070000000000007
+Max differential : 2.19
+Avg differential : -0.0005049800796812749
+Min differential : -4.17
+Differential greater than 1 : 14
+Differential less than -1 : 25
+Sum differential greater than and less than 1 : 39
+RMSE: 0.22
+R2 0.9891116894048455
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 70.7199999999997
+Max differential : 3.62
+Avg differential : 0.007043824701195219
+Min differential : -4.55
+Differential greater than 1 : 102
+Differential less than -1 : 88
+Sum differential greater than and less than 1 : 190
+RMSE: 0.33
+R2 0.982709760088876
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -45.99999999999981
+Max differential : 1.43
+Avg differential : -0.004581673306772908
+Min differential : -4.3
+Differential greater than 1 : 23
+Differential less than -1 : 27
+Sum differential greater than and less than 1 : 50
+RMSE: 0.24
+R2 0.9872076020678496
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : 182.75000000000014
+Max differential : 11.65
+Avg differential : 0.01820219123505976
+Min differential : -7.31
+Differential greater than 1 : 54
+Differential less than -1 : 40
+Sum differential greater than and less than 1 : 94
+RMSE: 0.46
+R2 0.9608514022422546
+Total Sum differential Grid8 : 1041
+Next ----------------------> Point 9
+______________________ Select Point 9 ______________________
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : 378.54000000000076
+Max differential : 4.49
+Avg differential : 0.037703187250996015
+Min differential : -4.16
+Differential greater than 1 : 435
+Differential less than -1 : 50
+Sum differential greater than and less than 1 : 485
+RMSE: 0.39
+R2 0.9682337151296507
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : 61.89000000000013
+Max differential : 4.71
+Avg differential : 0.006164342629482071
+Min differential : -3.96
+Differential greater than 1 : 31
+Differential less than -1 : 21
+Sum differential greater than and less than 1 : 52
+RMSE: 0.26
+R2 0.9853113012317779
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -221.27000000000007
+Max differential : 5.61
+Avg differential : -0.022038844621513943
+Min differential : -5.37
+Differential greater than 1 : 28
+Differential less than -1 : 125
+Sum differential greater than and less than 1 : 153
+RMSE: 0.29
+R2 0.9854710708252798
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : 85.78999999999995
+Max differential : 2.29
+Avg differential : 0.008544820717131474
+Min differential : -4.32
+Differential greater than 1 : 16
+Differential less than -1 : 31
+Sum differential greater than and less than 1 : 47
+RMSE: 0.24
+R2 0.988240217523886
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'gamma': 1.0, 'C': 10.0}
+Total test : 10040
+Sum differential : -18.259999999999966
+Max differential : 2.85
+Avg differential : -0.0018187250996015937
+Min differential : -4.54
+Differential greater than 1 : 49
+Differential less than -1 : 38
+Sum differential greater than and less than 1 : 87
+RMSE: 0.3
+R2 0.9790120463522145
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -74.18000000000009
+Max differential : 3.19
+Avg differential : -0.007388446215139442
+Min differential : -5.12
+Differential greater than 1 : 42
+Differential less than -1 : 71
+Sum differential greater than and less than 1 : 113
+RMSE: 0.26
+R2 0.9893475025898634
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 1.0}
+Total test : 10040
+Sum differential : -80.23000000000009
+Max differential : 2.07
+Avg differential : -0.007991035856573705
+Min differential : -4.63
+Differential greater than 1 : 18
+Differential less than -1 : 28
+Sum differential greater than and less than 1 : 46
+RMSE: 0.24
+R2 0.9879495794968738
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'gamma': 0.5, 'C': 10.0}
+Total test : 10040
+Sum differential : -106.18999999999981
+Max differential : 3.03
+Avg differential : -0.010576693227091634
+Min differential : -4.79
+Differential greater than 1 : 27
+Differential less than -1 : 49
+Sum differential greater than and less than 1 : 76
+RMSE: 0.26
+R2 0.9859109864515234
+Total Sum differential Grid9 : 1059
+Next ----------------------> Point 10
+
+Process finished with exit code 0

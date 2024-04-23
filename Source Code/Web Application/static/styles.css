@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500&display=swap');
+
+* {
+    font-family: 'kanit';
+    text-align: center;
+}
+
+iconify-icon {
+    font-size: 50px;
+}
+
+.navbar-brand {
+    span {
+        color: #1298E3;
+    }
+}
+
+.navbar {
+    background-color: #58c5fc;
+}
+
+body {
+    background-color: #F6F9FE;
+}
+
+.topic {
+    color: #454545;
+}
+
+.Gird-container {
+    padding: 20px;
+    border-radius: 24px;
+    display: grid;
+    grid-template-columns: 200fr 200fr 200fr 20fr;
+    color: #ffffff;
+    gap: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 1rem 2rem hsla(0, 0%, 52%, 0.15);
+
+    .window01,
+    .window02 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 50px;
+    }
+
+    .door {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .fixemty {
+        width: 50px;
+    }
+
+}
+
+
+
+.cold {
+    .accordion-button {
+        background-color: #58c5fc;
+        color: #ffffff;
+    }
+
+}
+
+.comfort {
+    .accordion-button {
+        background-color: #32CD32;
+        color: #ffffff;
+    }
+
+}
+
+.warm {
+    .accordion-button {
+        background-color: #f7e334;
+        color: #ffffff;
+
+    }
+
+}
+
+.hot {
+    .accordion-button {
+        background-color: #FF0000;
+        color: #ffffff;
+    }
+
+}
+
+.footer {
+    box-shadow: 0 1rem 2rem hsla(0, 0%, 52%, 0.15);
+}
+
+
+@media only screen and (min-width: 800px) and (max-width: 1280px) {
+    .accordion-button {
+        /* width: 200px; */
+        margin-bottom: 10px;
+        font-size: 14px;
+
+
+
+    }
+}
+
+@media only screen and (min-width: 393px) and (max-width: 799px) {
+    .accordion-button {
+        /* width: 200px; */
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    .Gird-container{
+        width: 350px;
+        div{
+            width: 80px;
+        }
+        h1{
+            font-size: 15px;
+        }
+    }
+}

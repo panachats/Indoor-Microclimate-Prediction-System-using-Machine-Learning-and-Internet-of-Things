@@ -1,0 +1,10 @@
+numpy
+pandas
+firebase-admin
+metpy
+scikit-learn
+fastapi
+uvicorn
+datetime
+httpx
+Jinja2 

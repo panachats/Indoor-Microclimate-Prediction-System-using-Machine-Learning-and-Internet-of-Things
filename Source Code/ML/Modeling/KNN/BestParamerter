@@ -1,0 +1,1255 @@
+"C:\Users\NITRO V15\AppData\Local\Programs\Python\Python311\python.exe" D:\Model\KNN\hiknn.py
+---
+______________________ Select Point 1 ______________________
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 11, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 23.699999999999978
+Max differential : 1.41
+Avg differential : 0.002360557768924303
+Min differential : -3.49
+Differential greater than 1 : 10
+Differential less than -1 : 12
+Sum differential greater than and less than 1 : 22
+MSE: 0.04
+RMSE: 0.2
+R2 0.9914223068486824
+######################## Save Model Success Grid1-Grid2 ########################
+
+
+
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 14, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 10.10000000000001
+Max differential : 1.83
+Avg differential : 0.0010059760956175302
+Min differential : -4.27
+Differential greater than 1 : 46
+Differential less than -1 : 123
+Sum differential greater than and less than 1 : 169
+MSE: 0.09
+RMSE: 0.3
+R2 0.9838964961151142
+######################## Save Model Success Grid1-Grid3 ########################
+
+
+
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 6, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 8.289999999999997
+Max differential : 1.88
+Avg differential : 0.0008256972111553786
+Min differential : -4.11
+Differential greater than 1 : 9
+Differential less than -1 : 15
+Sum differential greater than and less than 1 : 24
+MSE: 0.05
+RMSE: 0.21
+R2 0.9906435397353323
+######################## Save Model Success Grid1-Grid4 ########################
+
+
+
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 16, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 0.46000000000001273
+Max differential : 2.86
+Avg differential : 4.5816733067729156e-05
+Min differential : -4.15
+Differential greater than 1 : 63
+Differential less than -1 : 94
+Sum differential greater than and less than 1 : 157
+MSE: 0.12
+RMSE: 0.34
+R2 0.9730005223226402
+######################## Save Model Success Grid1-Grid5 ########################
+
+
+
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 31, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 12.459999999999981
+Max differential : 2.58
+Avg differential : 0.0012410358565737053
+Min differential : -5.32
+Differential greater than 1 : 104
+Differential less than -1 : 177
+Sum differential greater than and less than 1 : 281
+MSE: 0.14
+RMSE: 0.37
+R2 0.9783462892384898
+######################## Save Model Success Grid1-Grid6 ########################
+
+
+
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 18, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 0.30999999999998995
+Max differential : 1.15
+Avg differential : 3.087649402390447e-05
+Min differential : -4.27
+Differential greater than 1 : 8
+Differential less than -1 : 12
+Sum differential greater than and less than 1 : 20
+MSE: 0.05
+RMSE: 0.21
+R2 0.9901539302830237
+######################## Save Model Success Grid1-Grid7 ########################
+
+
+
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 29, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -36.369999999999905
+Max differential : 1.82
+Avg differential : -0.0036225099601593625
+Min differential : -4.75
+Differential greater than 1 : 60
+Differential less than -1 : 104
+Sum differential greater than and less than 1 : 164
+MSE: 0.12
+RMSE: 0.34
+R2 0.975623034151739
+######################## Save Model Success Grid1-Grid8 ########################
+
+
+
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 16, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -38.98000000000013
+Max differential : 12.44
+Avg differential : -0.003882470119521912
+Min differential : -5.96
+Differential greater than 1 : 76
+Differential less than -1 : 162
+Sum differential greater than and less than 1 : 238
+MSE: 0.25
+RMSE: 0.5
+R2 0.9540410739023856
+######################## Save Model Success Grid1-Grid9 ########################
+
+
+
+Total Sum differential Grid1 : 1075
+Next ----------------------> Point 2
+______________________ Select Point 2 ______________________
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 18, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -3.429999999999908
+Max differential : 1.24
+Avg differential : -0.0003416334661354583
+Min differential : -3.87
+Differential greater than 1 : 15
+Differential less than -1 : 31
+Sum differential greater than and less than 1 : 46
+MSE: 0.06
+RMSE: 0.24
+R2 0.9881305431986096
+######################## Save Model Success Grid2-Grid1 ########################
+
+
+
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 7, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 0.29999999999999927
+Max differential : 2.16
+Avg differential : 2.988047808764954e-05
+Min differential : -5.03
+Differential greater than 1 : 21
+Differential less than -1 : 37
+Sum differential greater than and less than 1 : 58
+MSE: 0.05
+RMSE: 0.22
+R2 0.9912441197910701
+######################## Save Model Success Grid2-Grid3 ########################
+
+
+
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 12, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 17.390000000000096
+Max differential : 2.14
+Avg differential : 0.0017320717131474102
+Min differential : -4.34
+Differential greater than 1 : 7
+Differential less than -1 : 16
+Sum differential greater than and less than 1 : 23
+MSE: 0.04
+RMSE: 0.2
+R2 0.9916712412055452
+######################## Save Model Success Grid2-Grid4 ########################
+
+
+
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 7, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -11.88000000000001
+Max differential : 2.93
+Avg differential : -0.0011832669322709164
+Min differential : -4.19
+Differential greater than 1 : 32
+Differential less than -1 : 18
+Sum differential greater than and less than 1 : 50
+MSE: 0.07
+RMSE: 0.27
+R2 0.9829388699637128
+######################## Save Model Success Grid2-Grid5 ########################
+
+
+
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 7, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 20.319999999999894
+Max differential : 3.14
+Avg differential : 0.0020239043824701194
+Min differential : -5.34
+Differential greater than 1 : 56
+Differential less than -1 : 62
+Sum differential greater than and less than 1 : 118
+MSE: 0.08
+RMSE: 0.28
+R2 0.9877038756780732
+######################## Save Model Success Grid2-Grid6 ########################
+
+
+
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 8, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 7.389999999999941
+Max differential : 1.99
+Avg differential : 0.0007360557768924304
+Min differential : -4.13
+Differential greater than 1 : 26
+Differential less than -1 : 46
+Sum differential greater than and less than 1 : 72
+MSE: 0.05
+RMSE: 0.23
+R2 0.988349067581758
+######################## Save Model Success Grid2-Grid7 ########################
+
+
+
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 27, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : -40.039999999999985
+Max differential : 1.95
+Avg differential : -0.00398804780876494
+Min differential : -4.9
+Differential greater than 1 : 33
+Differential less than -1 : 38
+Sum differential greater than and less than 1 : 71
+MSE: 0.09
+RMSE: 0.29
+R2 0.9817747660872299
+######################## Save Model Success Grid2-Grid8 ########################
+
+
+
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 19, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 22.060000000000024
+Max differential : 11.2
+Avg differential : 0.0021972111553784862
+Min differential : -5.14
+Differential greater than 1 : 41
+Differential less than -1 : 68
+Sum differential greater than and less than 1 : 109
+MSE: 0.16
+RMSE: 0.4
+R2 0.9713541903277212
+######################## Save Model Success Grid2-Grid9 ########################
+
+
+
+Total Sum differential Grid2 : 547
+Next ----------------------> Point 3
+______________________ Select Point 3 ______________________
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 16, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : -15.899999999999872
+Max differential : 1.83
+Avg differential : -0.0015836653386454185
+Min differential : -2.26
+Differential greater than 1 : 142
+Differential less than -1 : 101
+Sum differential greater than and less than 1 : 243
+MSE: 0.11
+RMSE: 0.34
+R2 0.9757341256070794
+######################## Save Model Success Grid3-Grid1 ########################
+
+
+
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 16, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 22.879999999999825
+Max differential : 2.04
+Avg differential : 0.0022788844621513945
+Min differential : -2.07
+Differential greater than 1 : 20
+Differential less than -1 : 22
+Sum differential greater than and less than 1 : 42
+MSE: 0.04
+RMSE: 0.2
+R2 0.9914483548628168
+######################## Save Model Success Grid3-Grid2 ########################
+
+
+
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 12, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 18.340000000000124
+Max differential : 2.61
+Avg differential : 0.0018266932270916334
+Min differential : -4.92
+Differential greater than 1 : 26
+Differential less than -1 : 29
+Sum differential greater than and less than 1 : 55
+MSE: 0.06
+RMSE: 0.24
+R2 0.9880230716725078
+######################## Save Model Success Grid3-Grid4 ########################
+
+
+
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 8, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -6.3699999999998775
+Max differential : 3.07
+Avg differential : -0.0006344621513944223
+Min differential : -4.9
+Differential greater than 1 : 29
+Differential less than -1 : 43
+Sum differential greater than and less than 1 : 72
+MSE: 0.08
+RMSE: 0.29
+R2 0.9807522158426003
+######################## Save Model Success Grid3-Grid5 ########################
+
+
+
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 18, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 38.04999999999988
+Max differential : 3.3
+Avg differential : 0.0037898406374501994
+Min differential : -5.62
+Differential greater than 1 : 29
+Differential less than -1 : 20
+Sum differential greater than and less than 1 : 49
+MSE: 0.05
+RMSE: 0.22
+R2 0.9925865059131113
+######################## Save Model Success Grid3-Grid6 ########################
+
+
+
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 24, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 56.2200000000002
+Max differential : 1.87
+Avg differential : 0.005599601593625498
+Min differential : -4.87
+Differential greater than 1 : 76
+Differential less than -1 : 57
+Sum differential greater than and less than 1 : 133
+MSE: 0.07
+RMSE: 0.27
+R2 0.9847009302843096
+######################## Save Model Success Grid3-Grid7 ########################
+
+
+
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 27, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 1.9100000000000206
+Max differential : 2.15
+Avg differential : 0.0001902390438247011
+Min differential : -5.31
+Differential greater than 1 : 63
+Differential less than -1 : 68
+Sum differential greater than and less than 1 : 131
+MSE: 0.1
+RMSE: 0.32
+R2 0.9783327094428041
+######################## Save Model Success Grid3-Grid8 ########################
+
+
+
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 15, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 43.600000000000094
+Max differential : 13.04
+Avg differential : 0.004342629482071713
+Min differential : -6.51
+Differential greater than 1 : 50
+Differential less than -1 : 88
+Sum differential greater than and less than 1 : 138
+MSE: 0.18
+RMSE: 0.42
+R2 0.9680629868706527
+######################## Save Model Success Grid3-Grid9 ########################
+
+
+
+Total Sum differential Grid3 : 863
+Next ----------------------> Point 4
+______________________ Select Point 4 ______________________
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 28, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -10.48000000000003
+Max differential : 3.46
+Avg differential : -0.0010438247011952193
+Min differential : -3.16
+Differential greater than 1 : 9
+Differential less than -1 : 28
+Sum differential greater than and less than 1 : 37
+MSE: 0.06
+RMSE: 0.24
+R2 0.9882188561485276
+######################## Save Model Success Grid4-Grid1 ########################
+
+
+
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 15, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 32.12999999999986
+Max differential : 3.1
+Avg differential : 0.003200199203187251
+Min differential : -3.24
+Differential greater than 1 : 24
+Differential less than -1 : 10
+Sum differential greater than and less than 1 : 34
+MSE: 0.03
+RMSE: 0.19
+R2 0.9922545458673533
+######################## Save Model Success Grid4-Grid2 ########################
+
+
+
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 8, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 10.400000000000016
+Max differential : 3.0
+Avg differential : 0.0010358565737051794
+Min differential : -4.02
+Differential greater than 1 : 31
+Differential less than -1 : 51
+Sum differential greater than and less than 1 : 82
+MSE: 0.06
+RMSE: 0.25
+R2 0.9887918926174338
+######################## Save Model Success Grid4-Grid3 ########################
+
+
+
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 8, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -21.00999999999997
+Max differential : 1.43
+Avg differential : -0.002092629482071713
+Min differential : -3.42
+Differential greater than 1 : 12
+Differential less than -1 : 12
+Sum differential greater than and less than 1 : 24
+MSE: 0.05
+RMSE: 0.23
+R2 0.9883425553292942
+######################## Save Model Success Grid4-Grid5 ########################
+
+
+
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 5, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 1.2000000000000413
+Max differential : 2.93
+Avg differential : 0.00011952191235059772
+Min differential : -4.3
+Differential greater than 1 : 50
+Differential less than -1 : 77
+Sum differential greater than and less than 1 : 127
+MSE: 0.08
+RMSE: 0.28
+R2 0.9878716442649116
+######################## Save Model Success Grid4-Grid6 ########################
+
+
+
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 28, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 11.720000000000068
+Max differential : 1.17
+Avg differential : 0.0011673306772908368
+Min differential : -3.09
+Differential greater than 1 : 12
+Differential less than -1 : 6
+Sum differential greater than and less than 1 : 18
+MSE: 0.03
+RMSE: 0.18
+R2 0.993070662529891
+######################## Save Model Success Grid4-Grid7 ########################
+
+
+
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 24, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -52.549999999999876
+Max differential : 1.51
+Avg differential : -0.0052340637450199205
+Min differential : -3.13
+Differential greater than 1 : 26
+Differential less than -1 : 45
+Sum differential greater than and less than 1 : 71
+MSE: 0.07
+RMSE: 0.26
+R2 0.9862780149659837
+######################## Save Model Success Grid4-Grid8 ########################
+
+
+
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 13, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : -54.279999999999845
+Max differential : 11.89
+Avg differential : -0.0054063745019920315
+Min differential : -7.01
+Differential greater than 1 : 31
+Differential less than -1 : 100
+Sum differential greater than and less than 1 : 131
+MSE: 0.23
+RMSE: 0.48
+R2 0.9584780620571689
+######################## Save Model Success Grid4-Grid9 ########################
+
+
+
+Total Sum differential Grid4 : 524
+Next ----------------------> Point 5
+______________________ Select Point 5 ______________________
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 14, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 58.6200000000001
+Max differential : 3.71
+Avg differential : 0.0058386454183266935
+Min differential : -3.83
+Differential greater than 1 : 99
+Differential less than -1 : 76
+Sum differential greater than and less than 1 : 175
+MSE: 0.12
+RMSE: 0.35
+R2 0.9747665778175578
+######################## Save Model Success Grid5-Grid1 ########################
+
+
+
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 30, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 74.63999999999979
+Max differential : 4.18
+Avg differential : 0.007434262948207171
+Min differential : -3.26
+Differential greater than 1 : 25
+Differential less than -1 : 23
+Sum differential greater than and less than 1 : 48
+MSE: 0.06
+RMSE: 0.24
+R2 0.987286356522387
+######################## Save Model Success Grid5-Grid2 ########################
+
+
+
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 10, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 46.119999999999926
+Max differential : 4.69
+Avg differential : 0.004593625498007969
+Min differential : -4.8
+Differential greater than 1 : 55
+Differential less than -1 : 52
+Sum differential greater than and less than 1 : 107
+MSE: 0.08
+RMSE: 0.28
+R2 0.9863784662104244
+######################## Save Model Success Grid5-Grid3 ########################
+
+
+
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 20, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 60.809999999999896
+Max differential : 1.42
+Avg differential : 0.006056772908366534
+Min differential : -3.93
+Differential greater than 1 : 12
+Differential less than -1 : 13
+Sum differential greater than and less than 1 : 25
+MSE: 0.05
+RMSE: 0.21
+R2 0.9906705572779736
+######################## Save Model Success Grid5-Grid4 ########################
+
+
+
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'weights': 'uniform', 'n_neighbors': 4, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 56.41000000000004
+Max differential : 3.45
+Avg differential : 0.005618525896414343
+Min differential : -4.92
+Differential greater than 1 : 70
+Differential less than -1 : 51
+Sum differential greater than and less than 1 : 121
+MSE: 0.09
+RMSE: 0.29
+R2 0.9863465999071749
+######################## Save Model Success Grid5-Grid6 ########################
+
+
+
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 14, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 63.58999999999986
+Max differential : 1.73
+Avg differential : 0.006333665338645419
+Min differential : -3.68
+Differential greater than 1 : 49
+Differential less than -1 : 27
+Sum differential greater than and less than 1 : 76
+MSE: 0.07
+RMSE: 0.27
+R2 0.9843685504421026
+######################## Save Model Success Grid5-Grid7 ########################
+
+
+
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 16, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 15.779999999999994
+Max differential : 1.46
+Avg differential : 0.0015717131474103584
+Min differential : -3.68
+Differential greater than 1 : 23
+Differential less than -1 : 15
+Sum differential greater than and less than 1 : 38
+MSE: 0.04
+RMSE: 0.21
+R2 0.990813413045472
+######################## Save Model Success Grid5-Grid8 ########################
+
+
+
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 24, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 51.769999999999904
+Max differential : 10.01
+Avg differential : 0.005156374501992032
+Min differential : -7.63
+Differential greater than 1 : 52
+Differential less than -1 : 88
+Sum differential greater than and less than 1 : 140
+MSE: 0.19
+RMSE: 0.44
+R2 0.9652682128862787
+######################## Save Model Success Grid5-Grid9 ########################
+
+
+
+Total Sum differential Grid5 : 730
+Next ----------------------> Point 6
+______________________ Select Point 6 ______________________
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 18, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -36.359999999999815
+Max differential : 3.2
+Avg differential : -0.0036215139442231075
+Min differential : -2.25
+Differential greater than 1 : 264
+Differential less than -1 : 153
+Sum differential greater than and less than 1 : 417
+MSE: 0.16
+RMSE: 0.4
+R2 0.9668936788517625
+######################## Save Model Success Grid6-Grid1 ########################
+
+
+
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 9, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -3.970000000000055
+Max differential : 2.63
+Avg differential : -0.0003954183266932273
+Min differential : -2.39
+Differential greater than 1 : 26
+Differential less than -1 : 26
+Sum differential greater than and less than 1 : 52
+MSE: 0.06
+RMSE: 0.24
+R2 0.9871415459584443
+######################## Save Model Success Grid6-Grid2 ########################
+
+
+
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 7, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -23.08000000000003
+Max differential : 2.77
+Avg differential : -0.0022988047808764943
+Min differential : -3.29
+Differential greater than 1 : 12
+Differential less than -1 : 19
+Sum differential greater than and less than 1 : 31
+MSE: 0.04
+RMSE: 0.19
+R2 0.9934985132001899
+######################## Save Model Success Grid6-Grid3 ########################
+
+
+
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 10, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 9.59000000000006
+Max differential : 2.51
+Avg differential : 0.0009551792828685258
+Min differential : -2.28
+Differential greater than 1 : 27
+Differential less than -1 : 25
+Sum differential greater than and less than 1 : 52
+MSE: 0.06
+RMSE: 0.25
+R2 0.9873727795267205
+######################## Save Model Success Grid6-Grid4 ########################
+
+
+
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 6, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -28.829999999999927
+Max differential : 1.87
+Avg differential : -0.0028715139442231073
+Min differential : -3.24
+Differential greater than 1 : 36
+Differential less than -1 : 39
+Sum differential greater than and less than 1 : 75
+MSE: 0.08
+RMSE: 0.28
+R2 0.9822367061086837
+######################## Save Model Success Grid6-Grid5 ########################
+
+
+
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 8, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 7.789999999999961
+Max differential : 2.22
+Avg differential : 0.0007758964143426295
+Min differential : -2.59
+Differential greater than 1 : 45
+Differential less than -1 : 51
+Sum differential greater than and less than 1 : 96
+MSE: 0.07
+RMSE: 0.26
+R2 0.9849339413680183
+######################## Save Model Success Grid6-Grid7 ########################
+
+
+
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 20, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -30.36000000000001
+Max differential : 2.42
+Avg differential : -0.0030239043824701194
+Min differential : -3.61
+Differential greater than 1 : 59
+Differential less than -1 : 60
+Sum differential greater than and less than 1 : 119
+MSE: 0.09
+RMSE: 0.29
+R2 0.9818951367084603
+######################## Save Model Success Grid6-Grid8 ########################
+
+
+
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 11, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 21.200000000000106
+Max differential : 10.47
+Avg differential : 0.002111553784860558
+Min differential : -8.39
+Differential greater than 1 : 42
+Differential less than -1 : 56
+Sum differential greater than and less than 1 : 98
+MSE: 0.11
+RMSE: 0.34
+R2 0.9793481344360062
+######################## Save Model Success Grid6-Grid9 ########################
+
+
+
+Total Sum differential Grid6 : 940
+Next ----------------------> Point 7
+______________________ Select Point 7 ______________________
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 16, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -27.770000000000135
+Max differential : 2.89
+Avg differential : -0.0027659362549800797
+Min differential : -3.8
+Differential greater than 1 : 31
+Differential less than -1 : 47
+Sum differential greater than and less than 1 : 78
+MSE: 0.06
+RMSE: 0.25
+R2 0.9864519940169575
+######################## Save Model Success Grid7-Grid1 ########################
+
+
+
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 18, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 5.859999999999928
+Max differential : 3.11
+Avg differential : 0.0005836653386454184
+Min differential : -3.54
+Differential greater than 1 : 22
+Differential less than -1 : 20
+Sum differential greater than and less than 1 : 42
+MSE: 0.04
+RMSE: 0.21
+R2 0.990567518723507
+######################## Save Model Success Grid7-Grid2 ########################
+
+
+
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 12, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 8.77000000000003
+Max differential : 3.23
+Avg differential : 0.0008735059760956175
+Min differential : -4.86
+Differential greater than 1 : 36
+Differential less than -1 : 99
+Sum differential greater than and less than 1 : 135
+MSE: 0.08
+RMSE: 0.28
+R2 0.9867381014750322
+######################## Save Model Success Grid7-Grid3 ########################
+
+
+
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 7, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -4.1199999999999495
+Max differential : 2.36
+Avg differential : -0.0004103585657370518
+Min differential : -4.31
+Differential greater than 1 : 3
+Differential less than -1 : 16
+Sum differential greater than and less than 1 : 19
+MSE: 0.03
+RMSE: 0.17
+R2 0.9937192546996311
+######################## Save Model Success Grid7-Grid4 ########################
+
+
+
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 11, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -27.109999999999893
+Max differential : 2.95
+Avg differential : -0.0027001992031872512
+Min differential : -4.05
+Differential greater than 1 : 22
+Differential less than -1 : 63
+Sum differential greater than and less than 1 : 85
+MSE: 0.08
+RMSE: 0.29
+R2 0.9805960839801714
+######################## Save Model Success Grid7-Grid5 ########################
+
+
+
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 27, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 15.6900000000001
+Max differential : 3.07
+Avg differential : 0.0015627490039840642
+Min differential : -4.52
+Differential greater than 1 : 70
+Differential less than -1 : 130
+Sum differential greater than and less than 1 : 200
+MSE: 0.1
+RMSE: 0.31
+R2 0.9844383234716824
+######################## Save Model Success Grid7-Grid6 ########################
+
+
+
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 6, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -45.0999999999999
+Max differential : 1.89
+Avg differential : -0.004492031872509961
+Min differential : -4.2
+Differential greater than 1 : 19
+Differential less than -1 : 42
+Sum differential greater than and less than 1 : 61
+MSE: 0.06
+RMSE: 0.25
+R2 0.9866619895175711
+######################## Save Model Success Grid7-Grid8 ########################
+
+
+
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 4, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : -38.310000000000066
+Max differential : 9.36
+Avg differential : -0.0038157370517928283
+Min differential : -12.09
+Differential greater than 1 : 20
+Differential less than -1 : 46
+Sum differential greater than and less than 1 : 66
+MSE: 0.18
+RMSE: 0.42
+R2 0.9671666021819492
+######################## Save Model Success Grid7-Grid9 ########################
+
+
+
+Total Sum differential Grid7 : 686
+Next ----------------------> Point 8
+______________________ Select Point 8 ______________________
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 19, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 43.06000000000005
+Max differential : 4.26
+Avg differential : 0.0042888446215139445
+Min differential : -3.25
+Differential greater than 1 : 157
+Differential less than -1 : 90
+Sum differential greater than and less than 1 : 247
+MSE: 0.12
+RMSE: 0.35
+R2 0.9736772292237127
+######################## Save Model Success Grid8-Grid1 ########################
+
+
+
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 15, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 69.55999999999989
+Max differential : 4.42
+Avg differential : 0.006928286852589642
+Min differential : -2.99
+Differential greater than 1 : 34
+Differential less than -1 : 19
+Sum differential greater than and less than 1 : 53
+MSE: 0.07
+RMSE: 0.26
+R2 0.9845120003382546
+######################## Save Model Success Grid8-Grid2 ########################
+
+
+
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 26, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 57.029999999999916
+Max differential : 5.36
+Avg differential : 0.0056802788844621515
+Min differential : -3.53
+Differential greater than 1 : 90
+Differential less than -1 : 90
+Sum differential greater than and less than 1 : 180
+MSE: 0.11
+RMSE: 0.33
+R2 0.9813805011573641
+######################## Save Model Success Grid8-Grid3 ########################
+
+
+
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 11, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 56.779999999999944
+Max differential : 2.12
+Avg differential : 0.005655378486055777
+Min differential : -3.25
+Differential greater than 1 : 20
+Differential less than -1 : 23
+Sum differential greater than and less than 1 : 43
+MSE: 0.05
+RMSE: 0.23
+R2 0.9887702356968049
+######################## Save Model Success Grid8-Grid4 ########################
+
+
+
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 10, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 45.359999999999985
+Max differential : 1.47
+Avg differential : 0.0045179282868525895
+Min differential : -3.06
+Differential greater than 1 : 12
+Differential less than -1 : 20
+Sum differential greater than and less than 1 : 32
+MSE: 0.04
+RMSE: 0.2
+R2 0.9904496587391861
+######################## Save Model Success Grid8-Grid5 ########################
+
+
+
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 21, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : 72.14999999999985
+Max differential : 3.63
+Avg differential : 0.007186254980079681
+Min differential : -3.84
+Differential greater than 1 : 108
+Differential less than -1 : 98
+Sum differential greater than and less than 1 : 206
+MSE: 0.11
+RMSE: 0.33
+R2 0.9831899284476942
+######################## Save Model Success Grid8-Grid6 ########################
+
+
+
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 6, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 43.35
+Max differential : 1.63
+Avg differential : 0.004317729083665339
+Min differential : -2.74
+Differential greater than 1 : 27
+Differential less than -1 : 13
+Sum differential greater than and less than 1 : 40
+MSE: 0.05
+RMSE: 0.23
+R2 0.9886670292149459
+######################## Save Model Success Grid8-Grid7 ########################
+
+
+
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 5, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 27.420000000000034
+Max differential : 9.87
+Avg differential : 0.0027310756972111555
+Min differential : -9.83
+Differential greater than 1 : 52
+Differential less than -1 : 48
+Sum differential greater than and less than 1 : 100
+MSE: 0.16
+RMSE: 0.4
+R2 0.9711121988075584
+######################## Save Model Success Grid8-Grid9 ########################
+
+
+
+Total Sum differential Grid8 : 901
+Next ----------------------> Point 9
+______________________ Select Point 9 ______________________
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 36, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : -61.250000000000036
+Max differential : 3.85
+Avg differential : -0.006100597609561753
+Min differential : -4.68
+Differential greater than 1 : 186
+Differential less than -1 : 78
+Sum differential greater than and less than 1 : 264
+MSE: 0.13
+RMSE: 0.36
+R2 0.97297701526413
+######################## Save Model Success Grid9-Grid1 ########################
+
+
+
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 13, 'algorithm': 'kd_tree'}
+Total test : 10040
+Sum differential : 0.9500000000001011
+Max differential : 3.91
+Avg differential : 9.46215139442231e-05
+Min differential : -4.82
+Differential greater than 1 : 21
+Differential less than -1 : 21
+Sum differential greater than and less than 1 : 42
+MSE: 0.06
+RMSE: 0.24
+R2 0.9868551044027872
+######################## Save Model Success Grid9-Grid2 ########################
+
+
+
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 9, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 0.47000000000000064
+Max differential : 4.44
+Avg differential : 4.681274900398417e-05
+Min differential : -5.66
+Differential greater than 1 : 36
+Differential less than -1 : 72
+Sum differential greater than and less than 1 : 108
+MSE: 0.07
+RMSE: 0.26
+R2 0.9877701061578231
+######################## Save Model Success Grid9-Grid3 ########################
+
+
+
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 13, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -10.670000000000044
+Max differential : 2.33
+Avg differential : -0.0010627490039840637
+Min differential : -3.52
+Differential greater than 1 : 13
+Differential less than -1 : 17
+Sum differential greater than and less than 1 : 30
+MSE: 0.05
+RMSE: 0.22
+R2 0.9899084547084497
+######################## Save Model Success Grid9-Grid4 ########################
+
+
+
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 23, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -34.39000000000008
+Max differential : 2.9
+Avg differential : -0.0034252988047808767
+Min differential : -3.33
+Differential greater than 1 : 28
+Differential less than -1 : 32
+Sum differential greater than and less than 1 : 60
+MSE: 0.08
+RMSE: 0.29
+R2 0.9810361693157733
+######################## Save Model Success Grid9-Grid5 ########################
+
+
+
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 9, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : 4.959999999999938
+Max differential : 3.07
+Avg differential : 0.0004940239043824702
+Min differential : -3.58
+Differential greater than 1 : 41
+Differential less than -1 : 67
+Sum differential greater than and less than 1 : 108
+MSE: 0.06
+RMSE: 0.25
+R2 0.9902882948350583
+######################## Save Model Success Grid9-Grid6 ########################
+
+
+
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 12, 'algorithm': 'ball_tree'}
+Total test : 10040
+Sum differential : -35.78999999999996
+Max differential : 1.94
+Avg differential : -0.0035647410358565735
+Min differential : -3.15
+Differential greater than 1 : 10
+Differential less than -1 : 13
+Sum differential greater than and less than 1 : 23
+MSE: 0.04
+RMSE: 0.2
+R2 0.9909825449459388
+######################## Save Model Success Grid9-Grid7 ########################
+
+
+
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'weights': 'distance', 'n_neighbors': 13, 'algorithm': 'brute'}
+Total test : 10040
+Sum differential : -62.41000000000008
+Max differential : 2.9
+Avg differential : -0.006216135458167331
+Min differential : -3.21
+Differential greater than 1 : 20
+Differential less than -1 : 46
+Sum differential greater than and less than 1 : 66
+MSE: 0.06
+RMSE: 0.25
+R2 0.9870051649241746
+######################## Save Model Success Grid9-Grid8 ########################
+
+
+
+Total Sum differential Grid9 : 701
+Next ----------------------> Point 10
+
+Process finished with exit code 0

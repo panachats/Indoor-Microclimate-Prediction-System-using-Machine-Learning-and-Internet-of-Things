@@ -1,0 +1,156 @@
+"C:\Users\NITRO V15\AppData\Local\Programs\Python\Python311\python.exe" D:\Model\KNN\hyperparameterKnn.py
+______________________ Select Point 1 ______________________
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 14, 'weights': 'distance'}
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 10, 'weights': 'distance'}
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 11, 'weights': 'distance'}
+------------------> X= ['Grid1_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 14, 'weights': 'distance'}
+__________________8____ Select Point 2 ______________________
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 5, 'weights': 'distance'}
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid2_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 8, 'weights': 'distance'}
+______________________ Select Point 3 ______________________
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 10, 'weights': 'distance'}
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 4, 'weights': 'distance'}
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 5, 'weights': 'distance'}
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 5, 'weights': 'distance'}
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid3_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 5, 'weights': 'distance'}
+______________________ Select Point 4 ______________________
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 11, 'weights': 'distance'}
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 10, 'weights': 'distance'}
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid4_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 9, 'weights': 'distance'}
+______________________ Select Point 5 ______________________
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 13, 'weights': 'distance'}
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid5_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 9, 'weights': 'distance'}
+______________________ Select Point 6 ______________________
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 13, 'weights': 'distance'}
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid6_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 4, 'weights': 'distance'}
+______________________ Select Point 7 ______________________
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 11, 'weights': 'distance'}
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 8, 'weights': 'distance'}
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 10, 'weights': 'distance'}
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid7_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 9, 'weights': 'distance'}
+______________________ Select Point 8 ______________________
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 13, 'weights': 'distance'}
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 11, 'weights': 'distance'}
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 6, 'weights': 'distance'}
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 9, 'weights': 'distance'}
+------------------> X= ['Grid8_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid9_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 9, 'weights': 'distance'}
+______________________ Select Point 9 ______________________
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid1_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 16, 'weights': 'distance'}
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid2_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 10, 'weights': 'distance'}
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid3_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid4_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'ball_tree', 'n_neighbors': 10, 'weights': 'distance'}
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid5_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 10, 'weights': 'distance'}
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid6_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'brute', 'n_neighbors': 7, 'weights': 'distance'}
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid7_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 10, 'weights': 'distance'}
+------------------> X= ['Grid9_Heat_Index', 'Out4_Heat_Index', 'Window_State', 'Curtain_State', 'AC_State', 'Door_State'], y= Grid8_Heat_Index <-------------------
+Hyper parameter is {'algorithm': 'kd_tree', 'n_neighbors': 9, 'weights': 'distance'}
+
+Process finished with exit code 0
