@@ -1,6 +1,7 @@
-<a href="https://youtube.com/playlist?list=PLIcbB-fs41u-KbvFEhPeSLLYNAmfXF_SN&si=3J5MVap2iLjWcM1s">Link Demonstration Video : Click Here</a> <p align="center">
+<p align="center"><a href="https://youtube.com/playlist?list=PLIcbB-fs41u-KbvFEhPeSLLYNAmfXF_SN&si=3J5MVap2iLjWcM1s">Link Demonstration Video : Click Here</a></p>
+<p align="center">
         <img src="img/01.png">
-    </p>
+
 
 <p align="center">
         <img src="img/02.png">
