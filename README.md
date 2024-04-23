@@ -1,4 +1,4 @@
-<p align="center"><a href="[https://youtube.com/playlist?list=PLIcbB-fs41u-KbvFEhPeSLLYNAmfXF_SN&si=3J5MVap2iLjWcM1s](https://youtu.be/_69mAPArxlA)">Link Demonstration Video : Click Here</a></p>
+<p align="center"><a href="https://youtu.be/_69mAPArxlA">Link Demonstration Video : Click Here</a></p>
 <p align="center">
         <img src="img/01.png">
 
